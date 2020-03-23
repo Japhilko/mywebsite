@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>  </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">CV Jan-Philipp Kolb</h1>
+      <h2 class="project-tagline">Workshops</h2>
+      <a href="https://japhilko.github.io/mywebsite/" class="btn">Home</a>
+       <a href="Publications.html" class="btn"> Publications</a>
+      <a href="Presentations.html" class="btn">Presentations</a>
+      <a href="Workshops.html" class="btn">Workshops</a>
+      <a href="Projects.html" class="btn"> Projects</a>
+    </section>
+
+    <section class="main-content">
+      <h3>
+<a id="Workshops" class="anchor" href="#Workshops" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Workshops.</h3>
+
+<h> <b> Summer School Courses </b> </h>      
+      
+<p> Jan-Philipp Kolb and Shelmith Kariuki 2019 <a href="https://www.gesis.org/angebot/veranstaltungen/gesis-training/international-summer-school-in-uganda-issu/introduction-to-data-analysis-using-r">"Introduction to Data Analysis Using R" </a> </p>
+      
+<p> Kolb, Jan-Philipp, and Alexander Murray-Watters. 2019. <a href="https://training.gesis.org/?site=pDetails&child=full&pID=0xB455C10E4BA7451CBC729596CA4A2F4C&subID=0xCD9ADDC09DC147FD978A102A25DFA6E2&lang=en_US"> </a>"Introductory Course to R with Applications from Data Analysis." </p>       
+
+<p> Kolb, Jan-Philipp, and Alexander Murray-Watters. 2018. "Introduction to Data Analysis with R: GESIS Summer school." </p> 
+      
+<h> <b> GESIS Training Courses </b> </h>           
+
+<p> Kolb, Jan-Philipp. 2019. <a href=https://github.com/Japhilko/IntroR/tree/master/2019">"Einführung in die Nutzung von R: GESIS Training Course."</a> </p> 
+  
+  <h> <b> Workshops for external clients </b> </h>  
+      
+<p> Kolb, Jan-Philipp. 2019. <a href=https://github.com/Japhilko/ffm_rintro">"Einführung in R."</a> beim Bürgeramt, Statistik und Wahlen der Stadt Frankfurt am Main. </p>       
+      
+
+
+<p> Kolb, Jan-Philipp. 2019. <a href=https://github.com/Japhilko/geohealth">"Einführung in die Nutzung von R in der Geomedizin."</a> Workshop an der FH Schwäbisch-Gmünd </p> 
+
+<p> Kolb, Jan-Philipp, and Alexander Murray-Watters. 2019. "Machine Learning with R: GESIS Training Course." </p> 
+<p> Kolb, Jan-Philipp. 2018. "Datenanalyse mit R: GESIS Training Course." </p> 
+<p> Kolb, Jan-Philipp. 2018. "Die Datenanalyse mit R: Trainingskurs." </p> 
+
+<p> Kolb, Jan-Philipp. 2018. "Nutzung von Geodaten: GESIS Training Course." </p>          
+      
+<p> Kolb, Jan-Philipp. 2017. <a href="https://japhilko.github.io/Interfaces4R/">Die Nutzung der R-Schnittstellen zur Extraktion, Verarbeitung und Visualisierung/Präsentation großer Datenmengen</a> 
+GESIS Training Course 2017. GESIS Leibniz Institut für die Sozialwissenschaften Mannheim. 2 Tage </p>      
+
+<p> Kolb, Jan-Philipp. 2017. <a href="https://github.com/Japhilko/IntroR/tree/master/2017">Einführung in die Datenanalyse mit R</a> 
+GESIS Training Course 2017. GESIS Leibniz Institut für die Sozialwissenschaften Mannheim. 2 Tage </p>      
+      
+<p> Kolb, Jan-Philipp. 2017. <a href="https://github.com/Japhilko/GeoData/tree/master/2017">Using Geodata for Social Science Research</a> 
+Workshop Social Science Data Lab 2017. Mannheimer Zenstrum für Europäische Sozialforschung (MZES). </p>
+      
+<p> Zins, Stefan, Sand, Matthias and Kolb, Jan-Philipp. 2016. <a href="https://github.com/BernStZi/SamplingAndEstimation">"Sampling, Weighting and Estimation in Survey Methodology"</a> 
+Workshop Graduiertenakademie 2016 Johann Wolfgang Goethe-Universität Frankfurt am Main </p>
+
+<p> Kolb, Jan-Philipp 2016. <a href="https://github.com/Japhilko/IntroR/tree/master/2016"> "Einführung in die Datenanalyse mit R" </a> 
+GESIS Training Course. GESIS - Leibniz-Institut für Sozialwissenschaften. 2 Tage.</p>
+
+<p> Kolb, Jan-Philipp. 2015. <a href="https://github.com/Japhilko/GeoData/tree/master/2015">"Spatial Visualisations."</a> Universität Mannheim. WS 2015: 2 SWS. </p>
+
+<p> Kolb, Jan-Philipp. 2015. <a href="https://github.com/Japhilko/IntroR/tree/master/2015"> "Einführung in die Datenanalyse mit R" </a> 
+GESIS Training Course. GESIS - Leibniz-Institut für Sozialwissenschaften. 2 Tage. </p>
+
+<p> Kolb, Jan-Philipp, Stefan Zins, Ralf Münnich, and Lisa Borsi. 2014. "Introduction to theory and methodologies of sample design for the European Social Fund." Brüssel.  </p> 
+  
+<p> Kolb, Jan-Philipp. 2014. <a href="https://github.com/Japhilko/DLR_IntroR">"Datenanalyse mit R."</a> Institut für Verkehrsforschung. Berlin. </p>
+
+<p> Kolb, Jan-Philipp. 2014. <a href="https://github.com/Japhilko/GeoData/tree/master/slides">"Spatial Visualisations."</a> Universität Mannheim. HWS: 2 SWS. </p>
+
+<p> Gabler, Siegfried, and Jan-Philipp Kolb. 2014. "Stichprobentheorie und Gewichtung: Schulung am Bundesinstitut für Berufsbildung." Bonn. </p>
+
+<p> Kolb, Jan-Philipp. 2014. <a href="https://github.com/Japhilko/IntroR/tree/master/2014"> "Einführung in die Datenanalyse mit R" </a> 
+GESIS Training Course. GESIS - Leibniz-Institut für Sozialwissenschaften. 2 Tage.</p>
+
+<p> Kolb, Jan-Philipp. 2014. <a href="https://github.com/Japhilko/npRegression">"Nichtlineare Effekte in der linearen Regression".</a> 20.06.2014. </p> 
+
+<p> Kolb, Jan-Philipp. 2013. "Einführung in die Datenanalyse mit R: GESIS Training Course." GESIS - Leibniz-Institut für Sozialwissenschaften. 2 Tage. </p>
+
+<p> Kolb, Jan-Philipp. 2013. "Sampling and estimation for complex surveys: applied sessions with R." GESIS. Cologne. </p>
+
+<p> Kolb, Jan-Philipp. 2012. "Probleme bei der Messung von Armut und sozialer Ausgrenzung - aus Sicht eines Surveystatistikers." Universität Köln am 04.07.2012 </p>
+
+<p> Kolb, Jan-Philipp, and Ralf Münnich. 2011. "Einführung in die empirische Wirtschafts- und Sozialforschung mit R." WS 2011/2012. </p>
+
+<p> Kolb, Jan-Philipp. 2011. "Small-Area Statistik." Universität Trier. Sommersemester. </p>
+
+<p> Kolb, Jan-Philipp. 2010. "Einführung in die Wirtschafts- und Sozialstatistik." Universität Trier. Sommersemester. </p>
+
+<p> Kolb, Jan-Philipp, Ralf Münnich, and Stefan Zins. 2009. "Moderne Methoden der Survey Statistik." Universität Trier. Wintersemester. </p>
+
+<p> Kolb, Jan-Philipp, Ralf Münnich, and Stefan Zins. 2008. "Messung von Armut und sozialer Ausgrenzung in der EU." Praxisbezogene Studienform (PbSf) Universität Trier. Winter- und Sommersemester. </p>
+
+<p> Kolb, Jan-Philipp, and Ralf Münnich. 2008. "Methoden der Wirtschaftsstatistik." Universität Trier. Wintersemester. </p>
+
+<p> Kolb, Jan-Philipp. 2008. "Stichprobenverfahren." Universität Trier. Sommersemester. </p>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/Japhilko/mywebsite">Mywebsite</a> is maintained by <a href="https://github.com/Japhilko">Japhilko</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+  
+  </body>
+</html>
