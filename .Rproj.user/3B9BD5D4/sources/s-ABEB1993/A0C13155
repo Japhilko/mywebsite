@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584994299427.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A0C13155",
+    "lastKnownWriteTime" : 1584994339,
+    "last_content_update" : 1584994339390,
+    "path" : "E:/github/mywebsite/Projects.html",
+    "project_path" : "Projects.html",
+    "properties" : {
+        "cursorPosition" : "33,18",
+        "scrollLine" : "27"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}
