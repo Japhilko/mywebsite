@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>  </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">CV Jan-Philipp Kolb</h1>
+      <h2 class="project-tagline">Presentations</h2>
+      <a href="https://japhilko.github.io/mywebsite/" class="btn">Home</a>
+       <a href="Publications.html" class="btn"> Publications</a>
+      <a href="Presentations.html" class="btn">Presentations</a>
+      <a href="Workshops.html" class="btn">Workshops</a>
+      <a href="Projects.html" class="btn"> Projects</a>
+      <a href="work_experience.html" class="btn"> Work Experience</a>
+    </section>
+    
+    
+    <section class="main-content">
+      <h3>
+<a id="Presentations" class="anchor" href="#Presentations" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a> </h3>
+
+
+<h1> <b> Presentations </b></h1>
+
+<p> Kolb, Jan-Philipp, and Lydia Repke. 2019. "Mapping Germany's different Personalities."" 2nd GESIS Research Day, Cologne, Germany, 10.10.2019. </p> 
+
+
+<p> Kolb, Jan-Philipp 2019. <a href="https://isi2019.org/proceeding/3.CPS/CPS%20VOL%207/files/basic-html/page220.html"> "Using predictive modelling to identify panel nonresponse" </a></p>
+
+<p> Kern, Christoph, Bernd Weiß, and Jan-Philipp Kolb. 2019. <a href="https://www.europeansurveyresearch.org/conf2019/uploads/635/1189/45/esra2019_1610.pdf">"A Longitudinal Framework for Predicting Nonresponse in Panel Surveys."</a> ESRA 2019 : 8th Conference of the European Survey Research Association. Zagreb (Croatia), 18.07.2019. </p>      
+      
+<p> Kolb, Jan-Philipp. 2019. - <a href="https://github.com/Japhilko/UseR16/blob/master/slides/Kolb_user16.pdf">Potential of combined usage of GESIS Panel and geodata.</a> GESIS Panel User Conference. </p>       
+
+<p> Kern, Christoph, Bernd Weiß, and Jan-Philipp Kolb. 2019. "Predicting panel nonresponse with machine learning in a longitudinal framework." GESIS Panel User Conference, GESIS - Leibniz-Institut für Sozialwissenschaften, Mannheim, 11.03.2019. </p>      
+
+<p> Kolb, Jan-Philipp, and Bernd Weiß. 2018. <a href=https://github.com/Japhilko/DataAnalysis/blob/master/Presentations/kolb-etal_nonresponse.pdf> "Geokodierung und Geodaten."</a> 12. Workshop der Panelsurveys, 21.02.2018. </p>
+  
+<p> Kolb, Jan-Philipp, Bernd Weiß, and Christoph Kern. 2018. "Using Predictive Modelling to Identify Nonresponse." BigSurv18 - Big Data meets Survey Science, 25.10.2018.  </p>
+      
+<p> Heycke, Tobias, Bernd Weiß, and Jan-Philipp Kolb. 2019. "The GESIS Panel: Heading towards a FAIR Survey Infrastructure." MZES open social science conference, MZES, 26.01.2019. </p>  
+
+<p> Kolb, Jan-Philipp. 2016. - <a href="https://github.com/Japhilko/UseR16/blob/master/slides/Kolb_user16.pdf">Tie-ins between R and Openstreetmap data</a> UseR 2016 Stanford </p>
+
+<p> Kolb, Jan-Philipp. 2016. - <a href="https://github.com/Japhilko/DataAnalysis/blob/master/Presentations/MMSDays16matrix_Kolb.pdf">Usage of Linked Social Science and Spatial Data in Survey- Statistics. </a> MMS Workshop 2016 Berlin</p>
+
+<p>Kolb, Jan-Philipp, Nicole Biedinger, and Oliver Klein. 2015. <a href="https://www.lifbi.de/tabid/1159/neuigkeiten.aspx?udt_2971_param_detail=7835"> Anreicherung von Survey Daten mit GeoDaten. </a> Gastvortrag am Leibniz Institut für Bildungsverläufe, Bamberg, 04.11.2015. </p>
+
+<p> Kolb, Jan-Philipp, and Matthias Sand. - Potentiale und Probleme der räumlichen Analyse bei Telefonstichproben. 
+Survey Statistiker Tagung 2015 Berlin. </p>
+
+<p> Biedinger, Nicole, Jan-Philipp Kolb, and Oliver Klein. 2015. 
+"Ethnische Unterschiede bei der Wahl des Kindergartens: Wer wählt den nächstgelegenen Kindergarten?." 
+3. Tagung der Gesellschaft für Empirische Bildungsforschung (GEBF), Bochum, 11.03.2015. </p>
+
+<p> Gabler, Siegfried, and Jan-Philipp Kolb. 2015. "Zweistufige Auswahl und Analyse." Statistische Woche 2015, Hamburg, 17.09.2015. </p>
+
+<p> Kolb, Jan-Philipp. 2015. "Visualisation of macroeconomic indicators in maps with R." New Techniques and Technologies for Statistics, 10.03.2015. </p>
+
+<p> Kolb, Jan-Philipp, Tobias Enderle, and Christian Bruch. 2014. "Imputation beim Zensus." Deutschsprachige Survey-Statistiker Tagung, Zeltingen-Rachtig, 08.04.2014.</p>
+
+<p> Kolb, Jan-Philipp. 2014. "Nutzung von Geoinformationen in der Survey Statistik." Deutschsprachige Survey-Statistiker Tagung, Zeltingen-Rachtig, 09.04.2014. </p>
+
+<p> Kolb, Jan-Philipp. 2014. <a href="http://user2014.stat.ucla.edu/abstracts/talks/162_Kolb.pdf"> Opportunities through the use of Open-Street-Map data in social sciences.</a> UseR, Los Angeles. </p>
+
+<p> Kolb, Jan-Philipp. 2014. "Use of OSM-data in survey statistics." State of the map 2014 : 8th Annual OpenStreetMap Conference, Karlsruhe, 07.11.2014. </p>
+
+<p> Kolb, Jan-Philipp, Ralf Münnich, Siegfried Gabler, Jan Pablo Burgard, Christian Bruch, und Tobias Enderle. 2014. "Imputation beim Zensus." Projekttreffen Statistisches Bundesamt, Wiesbaden, 05.02.2014. </p>
+
+<p> Kolb, Jan-Philipp, and Siegfried Gabler. 2013. "Estimation in Hypercubes. "Mathematical Modelling and Simulation Workshop, 'Berlin'. </p>
+
+<p> Kolb, Jan-Philipp. 2012. <a href="http://biostat.mc.vanderbilt.edu/wiki/pub/Main/UseR-2012/110-Kolb.pdf"> Generation of synthetic universes for micro-simulations in survey statistics. </a> UseR, Nashville. </p>
+
+<p> Kolb, Jan-Philipp. 2012. "Methoden der Datenerzeugung." Disputation, Trier, 24.05.2012. </p>
+
+<p> Münnich, Ralf, Siegfried Gabler, Matthias Ganninger, Jan-Pablo Burgard, and Jan-Philipp Kolb. 2011. "Optimal Sampling Design and Estimation in the German Census." ITACOSM 2011 - Second Italian Conference on Survey Methodology, Pisa.</p>
+
+<p> Kolb, Jan-Philipp, and Ralf Münnich. 2011. "Synthetic Generation of Business Statistics Micro Data." ISI World Statistics Congress, Dublin. </p>
+
+<p> Kolb, Jan-Philipp, und Ralf Münnich. 2010. <a href="http://www.soziologie.de/en/sections/sektionen/methoden-der-empirischen-sozialforschung/fruehere-veranstaltungen/programm-19-20-maerz-2010-in-mannheim.html"> Die Bedeutung räumlicher Strukturen für die Schätzung der Laeken Indikatoren </a>  
+Deutsche Gesellschaft für Soziologie - Sektion Methoden der Empirischen Sozialforschung - Raumbezogene Daten und Analysen </p>
+
+<p> Zins, Stefan, Ralf Münnich, and Jan-Philipp Kolb. 2009. <a href="http://www.gesis.org/fileadmin/upload/dienstleistung/daten/amtl_mikrodaten/europ_microdata/Presentations_2009/Zins.pdf"> Accuracy of poverty indicators derived from EU-SILC.</a> European User Conference for EU-LFS and EU-SILC, Mannheim, 05.03.2009. </p>
+
+<p> Kolb, Jan-Philipp. 2009. "Synthetic data generation and Small-Area Estimation." Rhine River Cruise - Symposium on Small Area Estimation, 15.06.2009. </p>
+
+<p> Kolb, Jan-Philipp. 2008. "Methoden zur Erzeugung einer synthetischen Simulationsgesamtheit am Beispiel des Zensus 2011." 
+Statistische Woche 2008 in Köln - Methodik Statistischer Erhebungen II</p>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/Japhilko/mywebsite">Mywebsite</a> is maintained by <a href="https://github.com/Japhilko">Japhilko</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+  
+  </body>
+</html>
