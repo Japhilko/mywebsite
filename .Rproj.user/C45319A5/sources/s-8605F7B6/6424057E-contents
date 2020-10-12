@@ -1,0 +1,25 @@
+---
+title: "Dinge für die Webseite"
+author: "Jan-Philipp Kolb"
+date: "12 10 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 
+
+<!--
+
+https://docplayer.org/146833114-Mitglied-der-jahresbericht-leibniz-gemeinschaft.html
+
+https://isi2019.org/proceeding/3.CPS/CPS%20VOL%207/files/basic-html/page220.html
+
+https://www.groundai.com/project/a-longitudinal-framework-for-predicting-nonresponse-in-panel-surveys/1
+
+https://madoc.bib.uni-mannheim.de/view/subjects/310.html
+
+file:///C:/Users/X230/Downloads/ZA5664-65_cdb.pdf
+-->
